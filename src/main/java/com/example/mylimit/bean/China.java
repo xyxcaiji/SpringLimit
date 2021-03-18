@@ -6,6 +6,8 @@ public class China {
     private int id;
     private String name;
     private int pid;
+    int pageNo;
+    int pageSize;
 
     public int getId() {
         return id;
